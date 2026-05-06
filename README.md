@@ -1,2 +1,5 @@
-# Neurovault-Brain-Data-Analysis
-Exploratory data analysis of brain imaging studies using the NeuroVault public API. Python · Pandas · Matplotlib
+git clone https://github.com/Valbu11/Neurovault-Brain-Data-Analysis.git
+# reemplazas el README.md con el nuevo contenido
+git add README.md
+git commit -m "docs: add professional README"
+git push
