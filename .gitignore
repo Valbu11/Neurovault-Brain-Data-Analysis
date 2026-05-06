@@ -216,3 +216,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# Data files - too large for GitHub
+data/raw/*.csv
+data/raw/*.db
+data/processed/*.csv
+data/processed/*.db
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
