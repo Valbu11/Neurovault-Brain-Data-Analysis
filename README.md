@@ -130,6 +130,20 @@ The top 5 are all large-scale brain mapping initiatives used as references world
 - Data spanning **2013 – 2026**
 ---
 
+## 📈 Visualizations
+
+![Studies per year](images/01_studies_per_year.png)
+
+![Growth rate](images/02_growth_rate.png)
+
+![Modality breakdown](images/03_modality_breakdown.png)
+
+![DOI coverage](images/04_doi_coverage.png)
+
+![Top collections](images/05_top_collections.png)
+
+---
+
 ## 🌱 What I Learned
 
 ### Technical skills
