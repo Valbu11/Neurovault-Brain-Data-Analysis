@@ -109,27 +109,41 @@ Consolidates the key insights from the analysis in a narrative format.
 ## 📊 Key Findings
 
 ### 📈 Explosive growth of neuroscience research
-NeuroVault went from just **11 studies in 2013** to **2,665 in 2024** — a 24,000% increase in a decade.
-The biggest spike was in **2020 (+163%)**, likely driven by COVID-19 giving researchers more time to publish.
-A second boom happened in **2023 (+218%)**, possibly linked to the rise of AI in neuroscience.
+Brain imaging research grew from **11 studies in 2013** to **2,665 in 2024** — a **+24,000% increase** in 11 years.
+Two major spikes: **2020 (+163%)** driven by COVID-19, and **2023 (+218%)** linked to the rise of AI in neuroscience.
 
-### 🧠 fMRI dominates brain imaging
-**79.1% of all brain maps are fMRI-BOLD** — confirming it as the gold standard technique for measuring brain activity.
-Only 0.7% are Structural MRI and 0.3% Diffusion MRI.
+### 🧠 fMRI-BOLD dominates brain imaging
+**79.1% of all brain maps use fMRI-BOLD** — confirming it as the gold standard for measuring brain activity.
+Only 0.7% use Structural MRI and 0.3% Diffusion MRI.
 
-### 📄 Most studies lack a DOI
-Only **5.5% of collections have a published DOI**, suggesting the majority are work-in-progress or
-privately shared datasets not yet linked to a peer-reviewed paper.
+### 📄 Most studies lack a published DOI
+Only **5.5% of collections have a DOI**, suggesting NeuroVault is increasingly used as a
+pre-publication data sharing platform rather than a repository for finalized research.
+
+### 🏆 The Human Connectome Project leads by far
+**Parcels_17Networks** tops the list with **65,184 brain maps** — nearly double the second largest collection.
+The top 5 are all large-scale brain mapping initiatives used as references worldwide.
 
 ### 📦 Dataset scale
-- **17,189 brain imaging collections** extracted from the API
-- **2,000 brain map images** analyzed
-- Data spans from **2013 to 2026**
+- **17,216** brain imaging collections analyzed
+- **2,000** brain map images processed
+- Data spanning **2013 – 2026**
 ---
 
 ## 🌱 What I Learned
 
-> ⏳ *To be completed at the end of the project.*
+### Technical skills
+- **APIs & requests:** How to consume a REST API, handle pagination and save JSON data
+- **Pandas:** Data cleaning, type conversion, feature engineering and groupby operations
+- **SQL & SQLite:** Creating databases, writing queries with GROUP BY, JOIN, CTEs and subqueries
+- **Matplotlib & Seaborn:** Bar charts, line plots, pie charts and dual-axis charts
+- **Git & GitHub:** Version control, commit conventions and repository structure
+- **Google Colab:** Cloud notebook execution with Google Drive integration
+
+### Domain knowledge
+- Understanding of neuroimaging modalities (fMRI-BOLD, Structural MRI, Diffusion MRI)
+- Awareness of open science practices in the neuroscience community
+- Familiarity with landmark projects like the Human Connectome Project
 
 ---
 
