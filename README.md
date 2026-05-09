@@ -108,8 +108,23 @@ Consolidates the key insights from the analysis in a narrative format.
 
 ## 📊 Key Findings
 
-> ⏳ *This section will be updated as the analysis progresses.*
+### 📈 Explosive growth of neuroscience research
+NeuroVault went from just **11 studies in 2013** to **2,665 in 2024** — a 24,000% increase in a decade.
+The biggest spike was in **2020 (+163%)**, likely driven by COVID-19 giving researchers more time to publish.
+A second boom happened in **2023 (+218%)**, possibly linked to the rise of AI in neuroscience.
 
+### 🧠 fMRI dominates brain imaging
+**79.1% of all brain maps are fMRI-BOLD** — confirming it as the gold standard technique for measuring brain activity.
+Only 0.7% are Structural MRI and 0.3% Diffusion MRI.
+
+### 📄 Most studies lack a DOI
+Only **5.5% of collections have a published DOI**, suggesting the majority are work-in-progress or
+privately shared datasets not yet linked to a peer-reviewed paper.
+
+### 📦 Dataset scale
+- **17,189 brain imaging collections** extracted from the API
+- **2,000 brain map images** analyzed
+- Data spans from **2013 to 2026**
 ---
 
 ## 🌱 What I Learned
