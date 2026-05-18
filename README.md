@@ -162,5 +162,5 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 ## 🙋 Author
 
 **Valbu11**  
-Aspiring data analyst • Learning in public  
+Data Analyst | SQL, Python, Power BI, AI | Commercial Analytics  
 [GitHub](https://github.com/Valbu11)
