@@ -140,7 +140,9 @@ The top 5 are all large-scale brain mapping initiatives used as references world
 
 Interactive dashboard built with Power BI Desktop using the cleaned NeuroVault dataset.
 
-![Power BI Dashboard](images/ffff_.png)
+📥 [Download the Power BI file](NeuroVault_Dashboard.pbix)
+
+![Power BI Dashboard](images/NeuroVault_Image.png)
 
 ---
 
