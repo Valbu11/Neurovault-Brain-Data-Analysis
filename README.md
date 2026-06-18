@@ -6,6 +6,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-2.0-150458?style=flat-square&logo=pandas)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.7-orange?style=flat-square)
 ![SQLite](https://img.shields.io/badge/SQLite-3-003B57?style=flat-square&logo=sqlite)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square)
 ---
 
@@ -58,6 +59,7 @@ Neurovault-Brain-Data-Analysis/
 | `requests` | HTTP calls to the NeuroVault API |
 | `pandas` | Data manipulation and cleaning |
 | `sqlite3` | Local database storage and SQL queries |
+| `Power BI` | Interactive dashboard |
 | `matplotlib` | Data visualization |
 | `seaborn` | Statistical charts |
 | `jupyter` | Interactive notebooks |
